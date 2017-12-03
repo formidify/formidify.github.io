@@ -6,7 +6,12 @@
   {% if site.resume_social_links.resume_github_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_github_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-github.html %}</a></li>
   {% endif %}
-
+	
+  <!-- Quora link -->
+  {% if site.resume_social_links.resume_quora_url %}
+  <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_quora_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-quora.html %}</a></li>
+  {% endif %}
+  
   <!-- Twitter link -->
   {% if site.resume_social_links.resume_twitter_url %}
   <li class="icon-link-item"><a href="{{ site.resume_social_links.resume_twitter_url }}" class="icon-link" itemprop="sameAs">{% include icons/icon-twitter.html %}</a></li>
