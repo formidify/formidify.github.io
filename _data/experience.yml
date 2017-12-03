@@ -1,7 +1,9 @@
-# Jobs
-# 
-- company: 
-  position: 
-  duration: 
-  summary: 
+# Experiences
+# Research Assistant
+- company: University of Minnesota Biostatistics
+  position: Research Assistant
+  duration: June, 2017 &mdash; Present
+  summary: I have been working since Summer 2017 to convert the methods used in a paper by Chu et al. (2003) into a working R package to be published at Journal of Statistical Software.<ul><li>Developed an R package "BayesSenMC". Performed all necessary commenting and testing. View it at <a href="https://github.com/formidify/BayesSenMC" target=_blank rel="noopener noreferrer">this link</a></li><li>Wrote and edited a JSS-formatted paper on the R package</li>
+
+
 

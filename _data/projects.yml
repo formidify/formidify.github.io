@@ -1,16 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+# E. Alexander project
+- project: Quantifying Emotional Content of Language in Digital Culture
+  role: Carleton College
+  duration: November, 2017 &mdash; Present
   # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+  description: Currently working on a digital humanities project with Prof. Eric Alexander on the language use of social media story telling. Perform N-gram analysis, topic modeling, sentiment analysis, etc. on the dataset to extract interesting differentiations between posts on social media.
+  
+  
+# Scheme interpreter in C
+- project: Scheme interpreter in C
+  role: Carleton College
+  duration: October, 2017 &mdash; November, 2017
+  # url: "#"
+  description: Term project for CS 251 (Programming Languages) at Carleton College. Built a Scheme interpreter in C that tokenizes, parses and evaluates the input Scheme file and prints the result on the terminal. View it at <a href="https://github.com/formidify/Scheme_Interpreter_C" target=_blank rel="noopener noreferrer">this link</a>
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Tetris game
+- project: Tetris game
+  role: Carleton College
+  duration: November, 2017
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: Final project for CS 257 (Software Design) at Carleton College. Implemented a Tetris game using IntelliJ and MVC (Model-View-Controller) pattern. View it at <a href="https://github.com/formidify/Tetris" target=_blank rel="noopener noreferrer">this link</a>
+
