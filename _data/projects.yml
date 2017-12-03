@@ -14,12 +14,12 @@
   role: Carleton College
   duration: October, 2017 &mdash; November, 2017
   # url: "#"
-  description: Term project for CS 251 (Programming Languages) at Carleton College. Built a Scheme interpreter in C that tokenizes, parses and evaluates the input Scheme file and prints the result on the terminal. View it at <a href="https://github.com/formidify/Scheme_Interpreter_C" target=_blank rel="noopener noreferrer">this link</a>
+  description: Term project for CS 251 (Programming Languages) at Carleton College. Built a Scheme interpreter in C that tokenizes, parses and evaluates the input Scheme file and prints the result on the terminal. View it at <a href="https://github.com/formidify/Scheme_Interpreter_C" target=_blank rel="noopener noreferrer">this link.</a>
 
 # Tetris game
 - project: Tetris game
   role: Carleton College
   duration: November, 2017
   # url: "#"
-  description: Final project for CS 257 (Software Design) at Carleton College. Implemented a Tetris game using IntelliJ and MVC (Model-View-Controller) pattern. View it at <a href="https://github.com/formidify/Tetris" target=_blank rel="noopener noreferrer">this link</a>
+  description: Final project for CS 257 (Software Design) at Carleton College. Implemented a Tetris game using IntelliJ and MVC (Model-View-Controller) pattern. View it at <a href="https://github.com/formidify/Tetris" target=_blank rel="noopener noreferrer">this link.</a>
 
