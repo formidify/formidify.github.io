@@ -1,6 +1,7 @@
 # Resume of James Yang
 
 The template is made by [Joel Glovier](https://github.com/jglovier) and customized by [me](https://github.com/formidify/).
+
 *A simple Jekyll + GitHub Pages powered resume template.*
 
 ![img](images/screenshot.png)
