@@ -3,10 +3,10 @@
 - skill: Proficiency in programming languages
   description: <ul><li>High proficiency in R, Stan, Python (NLTK library), Java, Scheme and C</li><li>Medium proficiency in HTML, CSS, SQL</li>
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
-
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+# Attention to detail
+- skill: Attention to detail
+  description: I am a careful programmer as well as a thorough debugger. I always double check the previous line of code while programming. In addition, when there are bugs in a large program, I often trace through each step of the call on paper to make sure all the codes and logic are accurate. 
+  
+# Thorough tester
+- skill: Thorough tester
+  description: I am good at finding edge cases as well as creating throrough and clear test files. I have also had experience with unit testing, and can write programs using Java frameworks such as JUnit. 
