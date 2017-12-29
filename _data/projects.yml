@@ -6,7 +6,8 @@
   role: Carleton College
   duration: November, 2017 &mdash; Present
   # url: "#"
-  description: Currently working on a digital humanities project with Prof. Eric Alexander on the language use of social media story telling. Perform N-gram analysis, topic modeling, sentiment analysis, etc. on the dataset to extract interesting differentiations between posts on social media.
+  description: Currently working on a digital humanities project with Prof. Eric Alexander on the language use of social media story telling. Perform N-gram analysis, topic modeling, sentiment analysis, etc. on the dataset to extract interesting differentiations between posts on social media. View it at <a href="https://github.com/formidify/SocialMediaStory_NLP" target=_blank rel="noopener noreferrer">this link.</a>
+
   
   
 # Scheme interpreter in C
