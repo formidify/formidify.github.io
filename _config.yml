@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "false"
-resume_name:                    "James Yang"
+resume_name:                    "James (Jinhui) Yang"
 resume_title:                   "Student at Carleton College"
 resume_contact_email:           "yangj2@carleton.edu"
 resume_contact_telephone:       "(952)495-7367"
 resume_contact_address:         "300 North College St, Northfield, MN 55057"
 resume_header_contact_info: "300 North College St, Northfield | (952)495-7367 | yangj2@carleton.edu"
-resume_header_intro: "<p>I am a quick learner, creative thinker and college student who aspires to venture into the world of programming, especially related to its use of dissecting our day-to-day languages.</p>"
+resume_header_intro: "<p>I am a quick learner, creative thinker and college student who aspires to venture into the world of programming, especially related to its use of dissecting our day-to-day languages. My interests are in Natural Language Processing and its applications in Digital Humanities, as well as broader applications of machine learning research.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
