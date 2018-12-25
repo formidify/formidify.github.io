@@ -4,7 +4,7 @@
 # Email subject project
 - project: Email Subject Generation
   role: Carleton College
-  duration: October, 2018 2017 &mdash; November, 2018
+  duration: October, 2018 &mdash; November, 2018
   # url: "#"
   description: Final project for CS 352 (Computational Models of Cognition) at Carleton College. Built several Long Short-Term Memory architectures using TensorFlow and PyTorch for email subject generation given body text. Work cultimated in a research paper and a class presentation. View it at <a href="https://github.com/formidify/CMoC_project" target=_blank rel="noopener noreferrer">this link.</a>
 
@@ -12,7 +12,7 @@
 # E. Alexander project
 - project: Quantifying Emotional Content of Language in Digital Culture
   role: Carleton College
-  duration: November, 2017 &mdash; Present
+  duration: November, 2017 &mdash; March, 2018
   # url: "#"
   description: Currently working on a digital humanities project with Prof. Eric Alexander on the language use of social media story telling. Perform N-gram analysis, topic modeling, sentiment analysis, etc. on the dataset to extract interesting differentiations between posts on social media. View it at <a href="https://github.com/formidify/SocialMediaStory_NLP" target=_blank rel="noopener noreferrer">this link.</a>
 
