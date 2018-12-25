@@ -6,7 +6,8 @@
   role: Carleton College
   duration: October, 2018 2017 &mdash; November, 2018
   # url: "#"
-  description: Final project for CS 352 (Computational Models of Cognition) at Carleton College. Built several Long Short-Term Memory architectures using TensorFlow and PyTorch for email subject generation given body text. Work cultimated in a research paper and a class presentation.
+  description: Final project for CS 352 (Computational Models of Cognition) at Carleton College. Built several Long Short-Term Memory architectures using TensorFlow and PyTorch for email subject generation given body text. Work cultimated in a research paper and a class presentation. View it at <a href="https://github.com/formidify/CMoC_project" target=_blank rel="noopener noreferrer">this link.</a>
+
   
 # E. Alexander project
 - project: Quantifying Emotional Content of Language in Digital Culture
